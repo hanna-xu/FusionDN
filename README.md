@@ -18,9 +18,14 @@ Intuitive description of data flow and the process of EWC:<br>
 ## To train:<br>
 CUDA_VISIBLE_DEVICES=0,1 python main.py (2 GPUs are needed)<br><br>
 
-Tips:<br>
-Large files for training can be downloaded from [*here*](https://pan.baidu.com/s/1S1MKc3XdoICoSg6H33CPZw). <br>
-
-
 ## To test:<br>
-CUDA_VISIBLE_DEVICES=0 python test_main.py
+CUDA_VISIBLE_DEVICES=0 python test_main.py<br><br>
+
+## Tips:<br>
+Large files for training can be downloaded from [*here*](https://pan.baidu.com/s/1S1MKc3XdoICoSg6H33CPZw), including the following files: <br>
+### For training:<br>
+* Training dataset<br>
+* vgg16<br>
+
+### For testing:<br>
+* Trained model
