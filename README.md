@@ -5,7 +5,10 @@ This is the code of the following paper (tensorflow):<br>
 
 
 ## Framework:<br>
+ Overall procedure:<br>
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/procedure.jpg" width="440" height="290"/></div><br>
+
+Intuitive description of data flow and the process of EWC:<br>
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/MultiTask.jpg" width="480" height="200"/></div><br>
 
 ## Fused results:<br>
