@@ -5,7 +5,7 @@ This is the code of the following paper (tensorflow):<br>
 
 
 ## Framework:
-<div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/procedure.jpg" width="520" height="280"/></div><br>
+<div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/procedure.jpg" width="420" height="260"/></div><br>
 
 ## Fused results:
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/res2.pdf" width="520" height="280"/></div><br>
