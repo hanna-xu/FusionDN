@@ -12,8 +12,13 @@ Intuitive description of data flow and the process of EWC:<br>
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/MultiTask.jpg" width="480" height="200"/></div><br>
 
 ## Fused results:<br>
-<div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/res1.jpg" width="900" height="400"/></div>
+<div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/res1.jpg" width="900" height="460"/></div>
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/res2.jpg" width="900" height="400"/></div>
 
 % The training dataset can be downloaded [*here*](https://pan.baidu.com/s/1S1MKc3XdoICoSg6H33CPZw). <br>
 
+## To train:<br>
+CUDA_VISIBLE_DEVICES=0,1 python main.py (2 GPUs are needed)
+
+## To test:<br>
+CUDA_VISIBLE_DEVICES=0 python test_main.py
