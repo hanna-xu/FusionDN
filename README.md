@@ -21,10 +21,10 @@ CUDA_VISIBLE_DEVICES=0,1 python main.py (2 GPUs are needed)<br><br>
 CUDA_VISIBLE_DEVICES=0 python test_main.py<br><br>
 
 ## Tips:<br>
-Large files for training can be downloaded from [*here*](https://pan.baidu.com/s/1S1MKc3XdoICoSg6H33CPZw), including the following files: <br>
-### For training:<br>
+Large files should be downloaded separately, including the following files: <br>
+#### For training:<br>
 * Training dataset<br>
-* vgg16<br>
+* [vgg16](https://pan.baidu.com/s/1vK3l8rzgAkxcKpLvnFAwXA)<br>
 
-### For testing:<br>
+#### For testing:<br>
 * Trained model
