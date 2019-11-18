@@ -1,8 +1,7 @@
-# FusionDN
-
+# FusionDN<br>
+It is a unified model for multiple image fusion tasks, including visible and infrared image fusion, multi-exposure image fusion and multi-focus image fusion.<br>
 This is the code of the following paper (tensorflow):<br>
 *FusionDN: A Unified Densely Connected Network for Image Fusion*
-
 
 ## Framework:<br>
  Overall procedure:<br>
