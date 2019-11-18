@@ -24,7 +24,7 @@ CUDA_VISIBLE_DEVICES=0 python test_main.py<br><br>
 Large files should be downloaded separately, including the following files: <br>
 #### For training:<br>
 * Training dataset<br>
-* [vgg16](https://pan.baidu.com/s/1vK3l8rzgAkxcKpLvnFAwXA)<br>
+* [vgg16](https://pan.baidu.com/s/1vK3l8rzgAkxcKpLvnFAwXA)<br> (put it in VGGnet/)
 
 #### For testing:<br>
-* Trained model
+* [Trained model](https://pan.baidu.com/s/1zH6DC0N78Mw2jvPRB2I6HA)
