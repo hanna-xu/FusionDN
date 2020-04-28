@@ -1,11 +1,11 @@
 # FusionDN<br>
 This is the code of the following paper (tensorflow):<br>
 ```
-@inproceedings{xu2020aaai,<br>
-  title={FusionDN: A Unified Densely Connected Network for Image Fusion},<br>
-  author={Xu, Han and Ma, Jiayi and Le, Zhuliang and Jiang, Junjun and Guo, Xiaojie},<br>
-  booktitle={proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},<br>
-  year={2020}<br>
+@inproceedings{xu2020aaai,
+  title={FusionDN: A Unified Densely Connected Network for Image Fusion},
+  author={Xu, Han and Ma, Jiayi and Le, Zhuliang and Jiang, Junjun and Guo, Xiaojie},
+  booktitle={proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  year={2020}
 }
 ```
 
