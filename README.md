@@ -11,9 +11,9 @@ This is the code of the following paper (tensorflow):<br>
 
 
 It is a unified model for multiple image fusion tasks, including:<br>
-1) visible and infrared image fusion;<br>
-2) multi-exposure image fusion;<br>
-3) multi-focus image fusion.<br>
+1) visible and infrared image fusion<br>
+2) multi-exposure image fusion<br>
+3) multi-focus image fusion<br>
 
 
 ## Framework:<br>
