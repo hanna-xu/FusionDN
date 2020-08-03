@@ -4,7 +4,8 @@ This is the code of the following paper (tensorflow):<br>
 @inproceedings{xu2020aaai,
   title={FusionDN: A Unified Densely Connected Network for Image Fusion},
   author={Xu, Han and Ma, Jiayi and Le, Zhuliang and Jiang, Junjun and Guo, Xiaojie},
-  booktitle={proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},
+  pages={12484--12491},
   year={2020}
 }
 ```
