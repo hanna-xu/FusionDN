@@ -19,7 +19,7 @@ It is a unified model for multiple image fusion tasks, including:<br>
 
 ## Framework:<br>
  Overall procedure:<br>
-<div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/procedure.jpg" width="440" height="290"/></div><br>
+<div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="440" height="290"/></div><br>
 
 Intuitive description of data flow and the process of EWC:<br>
 <div align=center><img src="https://github.com/hanna-xu/FusionDN/blob/master/imgs/MultiTask.jpg" width="510" height="200"/></div><br>
